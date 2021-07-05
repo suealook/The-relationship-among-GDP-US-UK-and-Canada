@@ -1,4 +1,4 @@
-setwd("D:/")
+#setwd("D:/")
 library(quantmod) 
 library(fBasics)
 library(sn)
